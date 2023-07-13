@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Operation
+namespace TvsTraining
 {
     internal class Program
     {

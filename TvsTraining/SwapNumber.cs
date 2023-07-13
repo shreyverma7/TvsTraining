@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Operation
+namespace TvsTraining
 {
     internal class SwapNumber
     {
@@ -21,7 +21,7 @@ namespace Operation
             a = a+b;
             b = a - b;
             a = a - b;
-            Console.WriteLine("Now after swapping a is " + a + " `& b is" + b);
+            Console.WriteLine("Now after swapping a is " + a + " & b is " + b);
         }
     }
 }
